@@ -1,0 +1,16 @@
+{
+  "author": "aa",
+  "bugs": {
+    "url": "https://github.com/golang/snappy"
+  },
+  "gx": {
+    "dvcsimport": "github.com/golang/snappy"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "snappy",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
